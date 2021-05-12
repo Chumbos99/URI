@@ -9,7 +9,7 @@ int main(){
     }
     tempo_m= finish_m-start_m;
     if(tempo_m<0){
-P
+
         tempo_m=60+(finish_m-start_m);
         tempo_h--;
     }
